@@ -13,7 +13,7 @@ Hi! My name is Mircea, I'm student and Tech enthusiast, and I'm living in Cluj-N
 
 
 # Stats :chart_with_upwards_trend:
-<a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=MirceaMacarie&count_private=true&show_icons=true&theme=gruvbox"/></a>
+<a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=MirceaMacarie&count_private=true&show_icons=true&theme=gruvbox"/></a>     <a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirceaMacarie&layout=demo&theme=dark" align= "top"/></a>
 
 
 
