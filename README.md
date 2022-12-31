@@ -12,12 +12,18 @@ Hi! My name is Mircea, I'm student and Tech enthusiast, and I'm living in Cluj-N
 
 
 
+
 # Stats :chart_with_upwards_trend:
 <a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=MirceaMacarie&count_private=true&show_icons=true&theme=gruvbox"/></a>     <a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirceaMacarie&layout=demo&theme=dark" align= "top"/></a>
 
 
 
+
+
 # Personal Projects :computer:
+<a href="https://github.com/MirceaMacarie/Test_Cases"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Test_Cases&theme=dark"/></a>     <a href="https://github.com/MirceaMacarie/First_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=First_Automation_Test&theme=dark"/></a>
+<a href="https://github.com/MirceaMacarie/Bug_Reports"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Bug_Reports&theme=dark"/></a>     <a href="https://github.com/MirceaMacarie/Academic_Info_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Academic_Info_Automation_Test&theme=dark"/></a>
+<a href="https://github.com/MirceaMacarie/API_Testing"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=API_Testing&theme=dark"/></a>     <a href="https://github.com/MirceaMacarie/SQL_Database_First_Project"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=SQL_Database_First_Project&theme=dark"/></a>
 
 
 
