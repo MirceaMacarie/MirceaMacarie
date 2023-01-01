@@ -34,4 +34,3 @@ Hi! My name is Mircea, I'm student and Tech enthusiast, and I'm living in Cluj-N
 <a href="https://github.com/MirceaMacarie/First_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=First_Automation_Test&theme=dark"/></a>     <a href="https://github.com/MirceaMacarie/Academic_Info_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Academic_Info_Automation_Test&theme=dark"/></a>
 
 
-
