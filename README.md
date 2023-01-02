@@ -1,6 +1,7 @@
 # About me :v:
 
 Hi! My name is Mircea, I'm student and Tech enthusiast, and I'm living in Cluj-Napoca, Romania. I am preparing myself to learn and work in Software Testing. I have developed various personal projects, both manual and automated testing. 
+
 Excepting testing, I'm intrested in UX and Web Development. When I have free time I like to read books, to listen podcasts and to watch good movies with my friends.
 
 
