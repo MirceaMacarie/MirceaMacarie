@@ -34,5 +34,8 @@ Excepting testing, I'm intrested in UX and Web Development. When I have free tim
 ### **1. WebdriverIO framework + JavaScript + Node.js**
 
 <a href="https://github.com/MirceaMacarie/First_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=First_Automation_Test&theme=dark"/></a>     <a href="https://github.com/MirceaMacarie/Academic_Info_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Academic_Info_Automation_Test&theme=dark"/></a>
+<a href="https://github.com/MirceaMacarie/Udemy_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Academic_Info_Automation_Test&theme=dark"/></a>
+
+
 
 
