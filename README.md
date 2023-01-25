@@ -16,7 +16,7 @@ Excepting testing, I'm intrested in UX and Web Development. When I have free tim
 
 
 # Stats :chart_with_upwards_trend:
-<a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=MirceaMacarie&count_private=true&show_icons=true&theme=gruvbox&PAT_1=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"/></a>     <a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirceaMacarie&layout=demo&theme=dark&PAT_1=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" align= "top"/></a>
+<a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=MirceaMacarie&count_private=true&show_icons=true&theme=gruvbox"/></a>     <a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirceaMacarie&layout=demo&theme=dark" align= "top"/></a>
 
 
 
