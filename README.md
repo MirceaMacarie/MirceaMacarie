@@ -37,5 +37,9 @@ Excepting testing, I'm intrested in UX and Web Development. When I have free tim
 <a href="https://github.com/MirceaMacarie/Udemy_Automation_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Udemy_Automation_Test&theme=dark"/></a>
 
 
+### **2. Cypress framework + JavaScript + Node.js**
+<a href="https://github.com/MirceaMacarie/History_Cypress_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=History_Cypress_Test&theme=dark"/></a>
+
+
 
 
