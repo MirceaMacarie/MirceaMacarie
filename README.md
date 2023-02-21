@@ -40,7 +40,7 @@ Also, I write articles about IT and Testing topics on blog community <a href="ht
 
 
 ### **2. Cypress framework + JavaScript + Node.js**
-<a href="https://github.com/MirceaMacarie/History_Cypress_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=History_Cypress_Test&theme=dark"/></a>
+<a href="https://github.com/MirceaMacarie/History_Cypress_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=History_Cypress_Test&theme=dark"/></a>     <a href="https://github.com/MirceaMacarie/Saucedemo_Cypress_Test"><img src="https://github-readme-stats.vercel.app/api/pin?username=MirceaMacarie&repo=Saucedemo_Cypress_Test&theme=dark"/></a>
 
 
 
