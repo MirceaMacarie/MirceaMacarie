@@ -11,7 +11,7 @@ Also, I write articles about IT and Testing topics on blog community <a href="ht
 
 
 # Contact Me :mailbox_with_mail:
-<a href="https://www.linkedin.com/in/mirceamacarie/"><img src="https://user-images.githubusercontent.com/115346533/210137701-8de326f3-58e2-4d99-90da-5e10f17525a8.png" width="auto" height= "70"/></a>     <a href="mailto:mirceagabriel.macarie@gmail.com"><img src="https://user-images.githubusercontent.com/115346533/210137858-75ba249f-b3b1-4a67-97d0-c3df6c828320.png" width="auto" height= "70"/></a>     <a href="https://www.facebook.com/mirceagabriel.macarie"><img src="https://user-images.githubusercontent.com/115346533/210137766-7aac843f-2d47-4a72-9072-bb965f9c2f06.png" width="auto" height= "70"/></a>     <a href="https://join.skype.com/invite/OFa8f8uDbhZT"><img src="https://user-images.githubusercontent.com/115346533/210176058-0d9711dd-505e-455a-ad59-8d30f47ad815.png" width="auto" height= "70"/></a>
+<a href="https://www.linkedin.com/in/mirceamacarie/"><img src="https://user-images.githubusercontent.com/115346533/210137701-8de326f3-58e2-4d99-90da-5e10f17525a8.png" width="auto" height= "71"/></a>     <a href="mailto:mirceagabriel.macarie@gmail.com"><img src="https://user-images.githubusercontent.com/115346533/210137858-75ba249f-b3b1-4a67-97d0-c3df6c828320.png" width="auto" height= "71"/></a>     <a href="https://www.facebook.com/mirceagabriel.macarie"><img src="https://user-images.githubusercontent.com/115346533/210137766-7aac843f-2d47-4a72-9072-bb965f9c2f06.png" width="auto" height= "71"/></a>     <a href="https://join.skype.com/invite/OFa8f8uDbhZT"><img src="https://user-images.githubusercontent.com/115346533/210176058-0d9711dd-505e-455a-ad59-8d30f47ad815.png" width="auto" height= "71"/></a>
 
 
 
