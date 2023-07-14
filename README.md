@@ -2,7 +2,7 @@
 
 Hi! My name is Mircea, I'm student and Tech enthusiast, and I'm living in Cluj-Napoca, Romania. I am preparing myself to learn and work in Software Testing. I have developed various personal projects, both manual and automated testing. 
 
-Excepting testing, I'm intrested in UX and Web Development. When I have free time I like to read books, to listen podcasts and to watch good movies with my friends.
+Excepting testing, I'm intrested in UX and Web Development. In my spare time I like to read books, to listen podcasts and to watch good movies with my friends.
 
 Also, I write articles about IT and Testing topics on blog community <a href="https://www.blogdeit.ro/">Vlog de IT</a>. You can read what I have written until now here 👉 https://www.blogdeit.ro/tag/mgm/. 📑 
 
