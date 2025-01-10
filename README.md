@@ -2,7 +2,7 @@
 
 Hi! My name is Mircea, a Tech enthusiast, and I'm living in Cluj-Napoca, Romania. I have developed various personal projects, both manual and automated testing, in order to learn and improve my software testing skills.
 
-Since July 2023, I am a QA engineer at 8x8 International, starting as an intern and continuing as a full-time QA engineer. I work on both manual and automated testing with different testing tools.
+Since July 2023, I am QA engineer at 8x8 International, starting as an intern and continuing as a full-time QA engineer. I work on both manual and automated testing with different testing tools, especially Selenium with Java.
 
 Excepting testing, I'm intrested in UX and Web Development. In my spare time I like to read books, to listen podcasts and to watch good movies with my friends.
 
