@@ -1,12 +1,12 @@
 # About me :v:
 
-Hi! My name is Mircea, a Tech enthusiast, and I'm based in Cluj-Napoca, Romania. I enjoy working on manual and automated testing projects to continuously improve my software testing skills.
+👋 Hi! My name is Mircea, a Tech enthusiast, and I'm based in Cluj-Napoca, Romania. I enjoy working on manual and automated testing projects to continuously improve my software testing skills.
 
-Since July 2023, I'm working at 8x8 International, starting as a QA intern and now as a full-time Software Developer in Test (SDET). I work on both manual and automated testing with different testing tools, especially Selenium with Java, Bash scripting and CI/CD pipelines.
+🖥️ Since July 2023, I'm working at 8x8 International, starting as a QA intern and now as a full-time Software Developer in Test (SDET). I work on both manual and automated testing with different testing tools, especially Selenium with Java, Bash scripting and CI/CD pipelines.
 
-Besides testing, I'm interested in UX, AI and Web Development. In my spare time I like to read books, to listen to podcasts and to watch good movies with my friends.
+🚀 Besides testing, I'm interested in UX, AI and Web Development. In my spare time I like to read books, to listen to podcasts and to watch good movies with my friends.
 
-Also, I'm a Technical Writer with 3+ years of experience contributing to the <a href="https://www.blogdeit.ro/">Vlog de IT</a> community blog. You can read what I have written until now 👉 <a href="https://blogdeit.ro/author/mircea/">here</a>. 📑
+✍️ Also, I'm a Technical Writer with 3+ years of experience contributing to the <a href="https://www.blogdeit.ro/">Vlog de IT</a> community blog. You can read what I have written until now 👉 <a href="https://blogdeit.ro/author/mircea/">here</a>. 📑
 
 
 
