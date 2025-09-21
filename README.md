@@ -1,8 +1,8 @@
 # About me :v:
 
-Hi! My name is Mircea, a Tech enthusiast, and I'm based in Cluj-Napoca, Romania. I have developed various personal projects, both manual and automated testing, in order to learn and improve my software testing skills.
+Hi! My name is Mircea, a Tech enthusiast, and I'm based in Cluj-Napoca, Romania. I enjoy working on manual and automated testing projects to continuously improve my software testing skills.
 
-Since July 2023, I'm working at 8x8 International, starting as a QA intern and continuing as a full-time Software Developer in Test (SDET). I work on both manual and automated testing with different testing tools, especially Selenium with Java, Bash scripting and CI/CD pipelines.
+Since July 2023, I'm working at 8x8 International, starting as a QA intern and now as a full-time Software Developer in Test (SDET). I work on both manual and automated testing with different testing tools, especially Selenium with Java, Bash scripting and CI/CD pipelines.
 
 Besides testing, I'm interested in UX, AI and Web Development. In my spare time I like to read books, to listen podcasts and to watch good movies with my friends.
 
@@ -13,7 +13,8 @@ Also, I'm Technical Writer with 3+ years of experience contributing to the <a hr
 
 
 # Contact Me :mailbox_with_mail:
-<a href="https://www.linkedin.com/in/mirceamacarie/"><img src="https://user-images.githubusercontent.com/115346533/210137701-8de326f3-58e2-4d99-90da-5e10f17525a8.png" width="auto" height= "72"/></a>     <a href="mailto:mirceagabriel.macarie@gmail.com"><img src="https://user-images.githubusercontent.com/115346533/210137858-75ba249f-b3b1-4a67-97d0-c3df6c828320.png" width="auto" height= "72"/></a>     <a href="https://www.facebook.com/mirceagabriel.macarie"><img src="https://user-images.githubusercontent.com/115346533/210137766-7aac843f-2d47-4a72-9072-bb965f9c2f06.png" width="auto" height= "72"/></a>     <a href="https://join.skype.com/invite/OFa8f8uDbhZT"><img src="https://user-images.githubusercontent.com/115346533/210176058-0d9711dd-505e-455a-ad59-8d30f47ad815.png" width="auto" height= "72"/></a>
+<a href="https://www.linkedin.com/in/mirceamacarie/"><img src="https://user-images.githubusercontent.com/115346533/210137701-8de326f3-58e2-4d99-90da-5e10f17525a8.png" width="auto" height= "72"/></a>     <a href="mailto:mirceagabriel.macarie@gmail.com"><img src="https://user-images.githubusercontent.com/115346533/210137858-75ba249f-b3b1-4a67-97d0-c3df6c828320.png" width="auto" height= "72"/></a>     <a href="https://www.facebook.com/mirceagabriel.macarie"><img src="https://user-images.githubusercontent.com/115346533/210137766-7aac843f-2d47-4a72-9072-bb965f9c2f06.png" width="auto" height= "72"/></a>     <a href="https://teams.live.com/l/invite/FEAsO9CFHplXAHVYwE?v=g1"><img width="auto" height="72" alt="Teams" src="https://github.com/user-attachments/assets/747c24aa-fc01-4b9a-9a47-62f33ac5a7ae"/>
+
 
 
 
