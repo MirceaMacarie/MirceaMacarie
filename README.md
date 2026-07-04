@@ -21,7 +21,7 @@
 
 
 # Stats :chart_with_upwards_trend:
-<a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=MirceaMacarie&count_private=true&show_icons=true&theme=gruvbox"/></a>     <a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirceaMacarie&theme=dark" align= "top"/></a>
+<a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=MirceaMacarie&amp;count_private=true&amp;show_icons=true&amp;theme=gruvbox"/></a><a href="https://github.com/MirceaMacarie?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirceaMacarie&amp;theme=dark" align="top"/></a>
 
 
 
